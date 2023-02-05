@@ -1,3 +1,5 @@
+/* eslint-disable no-underscore-dangle */
+
 export default class Char {
   constructor(name) {
     this.name = name;
